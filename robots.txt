@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neiteiphi.hanawindham.com/sitemap.xml
